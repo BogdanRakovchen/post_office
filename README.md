@@ -21,3 +21,9 @@
     <li>Repository</li>
     <li>Mapping</li>
   </ul>
+<hr/>
+<b>Протестирован с помощью:</b>
+ <ul>
+    <li>Junit</li>
+    <li>Mockito</li>
+  </ul>
