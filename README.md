@@ -10,7 +10,6 @@
     <li>Springdoc</li>
     <li>Mapstruct</li>
   </ul>
-<br/>
 <hr/>
 <b>Приложение создано из следующих компонентов:</b>
   <ul>
